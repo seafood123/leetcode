@@ -65,7 +65,7 @@ class NumArray {
  * int param_2 = obj.sumRange(i,j);
  */
 
-public class Solution307{
+public class Solution1514{
 	public static void main(String[] args) {
 		NumArray arr = new NumArray(new int[] {1,3,5});
 		System.out.println(Arrays.toString(arr.tree));
